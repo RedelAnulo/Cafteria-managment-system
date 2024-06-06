@@ -95,7 +95,7 @@ session_start();
                                 CAFETERIA MANAGEMENT SYSTEM FOR HAWASSA UNIVERSITY</b></a></li>
                     </center>
                 </marquee>
-                <div id="homebar2">
+                <!-- <div id="homebar2">
                     <div class="col1">
 
                         <div class="cap">
@@ -131,7 +131,7 @@ session_start();
                         </div>
                     </div>
 
-                </div>
+                </div> -->
                 <div id="homebar2">
                     <h2>
                         <center>
